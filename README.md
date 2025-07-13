@@ -25,6 +25,3 @@ This project is a fully immersive VR chess experience designed specifically for 
 
 ## 📸 Screenshots (Coming Soon)
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/3f35b8f3-2504-4422-b3e8-99f4bf660c0e" />
-
-## 🤝 Contributions
-Open to collaboration and feedback.

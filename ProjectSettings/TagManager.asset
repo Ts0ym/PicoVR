@@ -14,8 +14,8 @@ TagManager:
   - UI
   - 'ChessTile '
   - PauseTile
-  - 
-  - 
+  - Target
+  - Overlay
   - 
   - 
   - 
@@ -41,4 +41,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3546616869
     locked: 0
